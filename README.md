@@ -4,4 +4,4 @@ jsで暇つぶしに作ったテトリス
 
 # 遊ぶ
 
-http://9leap.net/user/jmjmtmmath
+http://9leap.net/games/4811
