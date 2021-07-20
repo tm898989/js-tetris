@@ -8,4 +8,4 @@ jsで暇つぶしに作ったテトリス
 
 # 遊ぶ
 
-http://r.jsgames.jp/games/4811/
+https://tm898989.github.io/js-tetris/index.html
